@@ -5,10 +5,11 @@
 layout: default
 title: Curriculum Vitae
 ---
+# Xin Shan
+---
 
-<div id="webaddress">
-Email: xin.shan@rutgers.edu | TEL: +1 (848) 391 1729
-|
+Email: xin.shan@rutgers.edu | TEL: +1 (848) 391 1729 |
+
 <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">Curriculum Vitae</a></div>
 
 # Education
