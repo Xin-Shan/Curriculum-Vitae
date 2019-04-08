@@ -8,7 +8,7 @@ title:
 
 # Xin Shan
 
-Email: xin.shan@rutgers.edu | TEL: +1 (848) 391 1729 | <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">Curriculum Vitae（PDF）</a> |
+Email: xin.shan@rutgers.edu | TEL: +1 (848) 391 1729 | <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">Curriculum Vitae (PDF)</a> |
 
 # Education
 ---
