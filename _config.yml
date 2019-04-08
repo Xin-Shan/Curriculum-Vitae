@@ -17,6 +17,7 @@ title: Xin Shan | Curriculum Vitae
 email: xin.shan@rutgers.edu
 baseurl: "Curriculum-Vitae" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  Xin-Shan
 
 # Build settings
 markdown: kramdown
