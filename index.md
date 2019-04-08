@@ -12,32 +12,34 @@ Email: xin.shan@rutgers.edu
 |
 TEL: +1 (848) 391 1729
 |
-<i class="fa fa-github"></i> <a href="https://xin-shan.github.io/Application-Materials/CV.pdf">Curriculum Vitae (PDF Version)</a>
-</div>
+<i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">Curriculum Vitae (PDF Version)</a></div>
 
 # Education
 
-`2015-present`
-[__Zhejiang University__](http://www.zju.edu.cn/english/) MSc Mechatronic Engineering (supervisor: [Professor, Canjun Yang](http://sklofp.zju.edu.cn/SKL/en/index.php?a=shows&catid=13&id=32))
+`2018-present`
+[__Rutgers University__](https://www.rutgers.edu) Doctor of Philosophy, Mechanical and Aerospace Engineering (supervisor: [Dr. Onur Bilgen](https://mae.rutgers.edu/onur-bilgen))
+
+`2015-2018`
+[__Zhejiang University__](http://www.zju.edu.cn/english/) Master of Science, Mechatronic Engineering (supervisor: [Prof. Canjun Yang](http://sklofp.zju.edu.cn/SKL/en/index.php?a=shows&catid=13&id=32))
 
 `2011-2015`
-[__Central South University__](http://en.csu.edu.cn) BSc Mechanical Engineering (supervisor: Professor, Yongcheng Lin)
+[__Central South University__](http://en.csu.edu.cn) Bachelor of Engineering, Mechanical Engineering (supervisor: [Prof. Yongcheng Lin](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
 
 # Publications
 
-### Journals
+## Journals
 
 + **Shan, X.**, Yang, C., Wu, S., Chen, Y., Zhou, P., (`2017`). [Integrated underwater optical guiding and communicating devices between an AUV and sea network nodes.](https://xin-shan.github.io/Application-Materials/Integrated.pdf) Ocean Engineering. (Submitted)
 + Zhu, Y., Yang, C., Wu, S., Zhou, P., & **Shan, X.** (`2016`). [Steering performance of underwater glider in water column monitoring.](http://www.zjujournals.com/eng/EN/Y2016/V50/I9/1637) Journal of Zhejiang University (Engineering Science), 50(9), 1637-1645.
 
-### Conference Proceedings
+## Conference Proceedings
 
 + **Shan, X.**, Yang, C., Chen, Y., Xia, Q. (`2017`, November). [A free-space underwater laser communication
 device with high pulse energy and small volume.](https://xin-shan.github.io/Application-Materials/Free-Space.pdf) In OCEANS’17 MTS/IEEE Anchorage. IEEE.
 (Presenter)
 + Xia, Q., Chen, Y., Zang, Y., **Shan, X.**, Yang, C., Zhang, Z. (`2017`, November). [Ocean profiler power system driven by temperature difference energy.](http://ieeexplore.ieee.org/abstract/document/8232156/?reload=true) In OCEANS’17 MTS/IEEE Anchorage. IEEE.
 
-### Patents
+## Patents
 
 + Yang, C., Zhou, P., Wu, S., Zhu, Y. **Shan, X.**, & Xu, X. (`2016`). [Releasable sit bottom device for underwater profiler.](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=106197384A&KC=A&FT=D) (Entry into substantive examination) CN106197384A.
 + Liu, G., **Shan, X.**, Feng, Z., Xu, N., Qin, Z., ... & Lu, Z. (`2015`). [Automobile exhaust comprehensive processing system.](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=204099004U&KC=U&FT=D) CN204099004U.
