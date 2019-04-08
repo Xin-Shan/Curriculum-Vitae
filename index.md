@@ -15,6 +15,7 @@ TEL: +1 (848) 391 1729
 <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">Curriculum Vitae (PDF Version)</a></div>
 
 # Education
+---
 
 `2018-present`
 [__Rutgers University__](https://www.rutgers.edu) Doctor of Philosophy, Mechanical and Aerospace Engineering (supervisor: [Dr. Onur Bilgen](https://mae.rutgers.edu/onur-bilgen))
@@ -25,7 +26,8 @@ TEL: +1 (848) 391 1729
 `2011-2015`
 [__Central South University__](http://en.csu.edu.cn) Bachelor of Engineering, Mechanical Engineering (supervisor: [Prof. Yongcheng Lin](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
 
-# Publications
+# Publication
+---
 
 ## Journals
 
@@ -45,6 +47,7 @@ device with high pulse energy and small volume.](https://xin-shan.github.io/Appl
 + Liu, G., **Shan, X.**, Feng, Z., Xu, N., Qin, Z., ... & Lu, Z. (`2015`). [Automobile exhaust comprehensive processing system.](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=204099004U&KC=U&FT=D) CN204099004U.
 
 # Projects & Thesis
+---
 
 ### Master Thesis: ’Research on Laser Guidance and AUV Docking Technology’
 
@@ -66,12 +69,14 @@ mathematics and control model for the system and write program (PLC) of it, and 
 This was a university funded project, of which I am the PI of a 5-student group. We established the dynamic model of the gear and get the destruction mechanism and the allowable extreme working conditions.
 
 # Competitions
+---
 
 ### Second Prize in National Contest of Energy Saving & Emission Reduction, Department of Higher Education, Ministry of Education, P.R. China
 
 Project Title: ’Comprehensive Purification System for Automobile Exhaust Based on Seebeck Effect and PM2.5 Electrostatic Removal Technology’
 
 # Selected Technical Skills
+---
 
 * VHDL( FPGA)
 * Verilog (FPGA)
@@ -98,6 +103,7 @@ Project Title: ’Comprehensive Purification System for Automobile Exhaust Based
 * Pro/E
 
 # Selected Honors
+---
 
 + `2016` Outstanding Graduate Student, Zhejiang University, Awarded to excellent graduate students
 
