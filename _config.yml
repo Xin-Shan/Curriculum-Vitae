@@ -13,11 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Xin Shan | Curriculum Vitae
+title: Xin Shan
 email: xin.shan@rutgers.edu
+tel: +1 (848) 391 1729
 baseurl: "Curriculum-Vitae" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Xin-Shan
+linkedin_unsername: Xin-Shan
 
 # Build settings
 markdown: kramdown

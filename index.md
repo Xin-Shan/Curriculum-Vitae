@@ -3,15 +3,13 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-title: Test
+title: Curriculum Vitae
 ---
 
 <div id="webaddress">
-Email: xin.shan@rutgers.edu
+Email: xin.shan@rutgers.edu | TEL: +1 (848) 391 1729
 |
-TEL: +1 (848) 391 1729
-|
-<i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">Curriculum Vitae (PDF Version)</a></div>
+<i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">Curriculum Vitae</a></div>
 
 # Education
 ---
