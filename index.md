@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Contact Information
+# Xin Shan
 
 <div id="webaddress">
 Email: xin.shan@rutgers.edu
