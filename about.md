@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 中文
 permalink: /about/
 ---
@@ -20,29 +20,29 @@ Email: xin.shan@rutgers.edu | TEL: +1 (848) 391 1729 | <i class="fa fa-github"><
 `2011-2015`
 [__Central South University__](http://en.csu.edu.cn) Bachelor of Engineering, Mechanical Engineering (supervisor: [Prof. Yongcheng Lin](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
 
-# Publication
+# 作品发表
 ---
 
-## Journals
+## 期刊论文
 
 + **Shan, X.**, Yang, C., Wu, S., Chen, Y., Zhou, P., (`2017`). Integrated underwater optical guiding and communicating devices between an AUV and sea network nodes. Ocean Engineering. (Under Review)
 + Zhu, Y., Yang, C., Wu, S., Zhou, P., & **Shan, X.** (`2016`). [Steering performance of underwater glider in water column monitoring.](http://www.zjujournals.com/eng/EN/Y2016/V50/I9/1637) Journal of Zhejiang University (*Engineering Science*), 50(9), 1637-1645.
 
-## Conference Proceedings
+## 会议论文
 
 + **Shan, X.**, Yang, C., Chen, Y., Xia, Q. (`2017`, November). A free-space underwater laser communication
 device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorage. IEEE.
 (Presenter)
 + Xia, Q., Chen, Y., Zang, Y., **Shan, X.**, Yang, C., Zhang, Z. (`2017`, November). [Ocean profiler power system driven by temperature difference energy.](http://ieeexplore.ieee.org/abstract/document/8232156/?reload=true) In OCEANS’17 MTS/IEEE Anchorage. IEEE.
 
-## Patents
+## 专利
 
 + Yang, C., Hua, X., Wu, S., **Shan, X.**, Zhou, P., Zhi, H., Chen, Y. (`2018`). An integrated device for deep sea optical communication and track. *CN105807298A*. (Pending)
 + Yang, C., Zhou, P., Wu, S., Zhu, Y. **Shan, X.**, & Xu, X. (`2016`). [Releasable sit bottom device for underwater profiler.](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=106197384A&KC=A&FT=D) *CN106197384A*.
 + Liu, G., **Shan, X.**, Feng, Z., Xu, N., Qin, Z., ... & Lu, Z. (`2015`). [Automobile exhaust comprehensive processing system.](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=204099004U&KC=U&FT=D) *CN204099004U*.
 
 
-# Projects & Thesis
+# 项目 & 学位论文
 ---
 
 ### Master Thesis (`2016-2018`): ’Research on Laser Guidance and AUV Docking Technology’
@@ -68,7 +68,7 @@ This was a university funded project, of which I am the PI of a 5-student group.
 
 This was a national contest held by China's ministry of education. I was a key member of a 5 people group, who was in charge of the design of an exhaust processing system. We won a national second prize in this contest.
 
-# Selected Technical Skills
+# 主要技能
 ---
 
 * VHDL (FPGA)
@@ -95,7 +95,7 @@ This was a national contest held by China's ministry of education. I was a key m
 * Catia
 * Pro/E
 
-# Selected Honors
+# 主要荣誉
 ---
 
 + `2018` Teaching Assistantship, Rutgers University, Teaching Assistant of 'Dynamics' and 'Aircraft Flight Dynamics'.
