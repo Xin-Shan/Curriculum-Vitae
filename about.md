@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 中文
-permalink: /about/
+permalink: /Chinese/
 ---
 
 # 单鑫
