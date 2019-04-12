@@ -45,28 +45,29 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 # 项目 & 学位论文
 ---
 
-### Master Thesis (`2016-2018`): ’Research on Laser Guidance and AUV Docking Technology’
++ ### Master Thesis (`2016-2018`): ’Research on Laser Guidance and AUV Docking Technology’
 
-This thesis aimed to integrate the communication and positioning functions into one portable device which can guide underwater vehicles to the nodes of sea observatory network and allow the information and energy exchanging between them. I wrote an algorithm (FPGA Verilog), designed the hardware, and did the thermal and optical design for this system. A preliminary experiment of underwater laser charging was also included.
+    This thesis aimed to integrate the communication and positioning functions into one portable device which can guide underwater vehicles to the nodes of sea observatory network and allow the information and energy exchanging between them. I wrote an algorithm (FPGA Verilog), designed the hardware, and did the thermal and optical design for this system. A preliminary experiment of underwater laser charging was also included.
 
-### National High-Tech R&D Program of China (`No.2014AA09A513-1`): ’Monitoring and Networking Technology of Autonomous Portable Profiler’
-As a team member, my attribution was mainly on designing of main control board hardware (PCB), data logging program (STM32 Platform / C++Programing Language) and some auxiliary devices (deploy and recovery devices, etc.). I also worked with my team to assemble and debug the profiler. I attended the sea trial in July 2017 cooperated with 715 Institute of China Shipbuilding Industry Corporation.
++ ### National High-Tech R&D Program of China (`No.2014AA09A513-1`): ’Monitoring and Networking Technology of Autonomous Portable Profiler’
+    
+    As a team member, my attribution was mainly on designing of main control board hardware (PCB), data logging program (STM32 Platform / C++Programing Language) and some auxiliary devices (deploy and recovery devices, etc.). I also worked with my team to assemble and debug the profiler. I attended the sea trial in July 2017 cooperated with 715 Institute of China Shipbuilding Industry Corporation.
 
-### The National Key R&D Program of China: ’Development of Air-Tight Sampling Device for Deep Sea Water and Sediments’
-The research on developing an extremely low power consumption optical communication system for the deep sea sampler was conducted in this project.
++ ### The National Key R&D Program of China: ’Development of Air-Tight Sampling Device for Deep Sea Water and Sediments’
+    
+    The research on developing an extremely low power consumption optical communication system for the deep sea sampler was conducted in this project.
 
-### Bachelor Thesis (`2014-2015`): ’Design of Multi-Physical Field Aluminum Alloy Hemi-Continuous Casting Machine — Aluminum Liquid Level Control Systems’
++ ### Bachelor Thesis (`2014-2015`): ’Design of Multi-Physical Field Aluminum Alloy Hemi-Continuous Casting Machine — Aluminum Liquid Level Control Systems’
 
-I investigated the factory site and designed a hemi-continuous casting system. Moreover, I established
-mathematics and control model for the system and wrote program (PLC) of it, and designed the structure of the actuator.
+    I investigated the factory site and designed a hemi-continuous casting system. Moreover, I established mathematics and control model for the system and wrote program (PLC) of it, and designed the structure of the actuator.
 
-### Central South University Undergraduate Free Exploration Program (`2013-2014`): ’Study on Nonlinear Dynamic Response of Spur Gears with Clearance and Friction’
++ ### Central South University Undergraduate Free Exploration Program (`2013-2014`): ’Study on Nonlinear Dynamic Response of Spur Gears with Clearance and Friction’
 
-This was a university funded project, of which I am the PI of a 5-student group. We established the dynamic model of the gear and get the destruction mechanism and the allowable extreme working conditions.
+    This was a university funded project, of which I am the PI of a 5-student group. We established the dynamic model of the gear and get the destruction mechanism and the allowable extreme working conditions.
 
-### National Contest of Energy Saving & Emission Reduction (`2012-2013`): ’Comprehensive Purification System for Automobile Exhaust Based on Seebeck Effect and PM2.5 Electrostatic Removal Technology’
++ ### National Contest of Energy Saving & Emission Reduction (`2012-2013`): ’Comprehensive Purification System for Automobile Exhaust Based on Seebeck Effect and PM2.5 Electrostatic Removal Technology’
 
-This was a national contest held by China's ministry of education. I was a key member of a 5 people group, who was in charge of the design of an exhaust processing system. We won a national second prize in this contest.
+    This was a national contest held by China's ministry of education. I was a key member of a 5 people group, who was in charge of the design of an exhaust processing system. We won a national second prize in this contest.
 
 # 主要技能
 ---
