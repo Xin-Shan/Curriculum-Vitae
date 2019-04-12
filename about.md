@@ -6,19 +6,19 @@ permalink: /Chinese/
 
 # 单鑫
 
-Email: xin.shan@rutgers.edu | TEL: +1 (848) 391 1729 | <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">Curriculum Vitae (PDF)</a> |
+邮箱: xin.shan@rutgers.edu | 电话: +1 (848) 391 1729 | <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">简历 (PDF)</a> |
 
 # 教育背景
 ---
 
-`2018-present`
-[__Rutgers University__](https://www.rutgers.edu) Doctor of Philosophy, Mechanical and Aerospace Engineering (supervisor: [Dr. Onur Bilgen](https://mae.rutgers.edu/onur-bilgen))
+`2018-至今`
+[__罗格斯大学__](https://www.rutgers.edu) 哲学博士, 机械与航天工程 (导师: [Dr. Onur Bilgen](https://mae.rutgers.edu/onur-bilgen))
 
 `2015-2018`
-[__Zhejiang University__](http://www.zju.edu.cn/english/) Master of Science, Mechatronic Engineering (supervisor: [Prof. Canjun Yang](http://sklofp.zju.edu.cn/SKL/en/index.php?a=shows&catid=13&id=32))
+[__浙江大学__](http://www.zju.edu.cn/english/) 工学硕士, 机械电子工程 (导师: [杨灿军 教授](http://sklofp.zju.edu.cn/SKL/en/index.php?a=shows&catid=13&id=32))
 
 `2011-2015`
-[__Central South University__](http://en.csu.edu.cn) Bachelor of Engineering, Mechanical Engineering (supervisor: [Prof. Yongcheng Lin](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
+[__中南大学__](http://en.csu.edu.cn) 工学学士, 机械设计制造及其自动化 (导师: [蔺永诚 教授](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
 
 # 作品发表
 ---
