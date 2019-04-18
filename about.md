@@ -6,7 +6,7 @@ permalink: /Chinese/
 
 # 单鑫
 
-邮箱: xin.shan@rutgers.edu | 电话: +1 (848) 391 1729 | <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">简历 (PDF)</a> |
+邮箱: xin.shan@rutgers.edu | 电话: +1 (732) 401 5214 | <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">简历 (PDF)</a> |
 
 # 教育背景
 ---
@@ -18,7 +18,7 @@ permalink: /Chinese/
 [__浙江大学__](http://www.zju.edu.cn/english/) 工学硕士, 机械电子工程 (导师: [杨灿军 教授](http://sklofp.zju.edu.cn/SKL/en/index.php?a=shows&catid=13&id=32))
 
 `2011-2015`
-[__中南大学__](http://en.csu.edu.cn) 工学学士, 机械设计制造及其自动化 (导师: [蔺永诚 教授](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
+[__中南大学__](http://en.csu.edu.cn) 工学学士, 机械设计制造及其自动化 (导师: [李晓谦 教授](http://cmee.csu.edu.cn/mobile_bk/?id=lixiaoqian), [蔺永诚 教授](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
 
 # 作品发表
 ---
@@ -72,29 +72,34 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 # 主要技能
 ---
 
-* VHDL (FPGA)
-* Verilog (FPGA)
-* C (ARM STM32)
-* Keil (ARM STM32)
-* C++
-* LabVIEW
-* LaTeX
-* Visual Studio
-* Multisim
-* Matlab
-* Maple
-* Mathematica
-* COMSOL
-* ANSYS
-* Altium Designer
-* Xilinx ISE (FPGA Development Environment)
-* TracePro (Optical Simulation Software)
-* AutoCAD
-* SolidWorks
-* KeyShot
-* 3Ds Max
-* Catia
-* Pro/E
++ Computer Language
+    * VHDL (FPGA)
+    * Verilog (FPGA)
+    * C (ARM STM32)
+    * C++
+    * LaTeX
+    * Visual Studio
++ Mathematics Software
+    * Matlab
+    * Maple
+    * Mathematica
++ Mechanical
+    * COMSOL
+    * ANSYS
+    * AutoCAD
+    * SolidWorks
+    * Catia
+    * Pro/E
+    * KeyShot
+    * 3Ds Max
++ Electrical
+    * Altium Designer
+    * Xilinx ISE (FPGA Development Environment)
+    * Keil (ARM STM32)
+    * LabVIEW
+    * Multisim
++ Others
+    * TracePro (Optical Simulation Software)
 
 # 主要荣誉
 ---
