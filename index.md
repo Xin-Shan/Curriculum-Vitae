@@ -20,7 +20,7 @@ Email: xin.shan@rutgers.edu | TEL: +1 (732) 401 5214 | <i class="fa fa-github"><
 [__Zhejiang University__](http://www.zju.edu.cn/english/) Master of Science, Mechatronic Engineering (supervisor: [Prof. Canjun Yang](http://sklofp.zju.edu.cn/SKL/en/index.php?a=shows&catid=13&id=32))
 
 `2011-2015`
-[__Central South University__](http://en.csu.edu.cn) Bachelor of Engineering, Mechanical Engineering (supervisor: [Prof. Yongcheng Lin](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
+[__Central South University__](http://en.csu.edu.cn) Bachelor of Engineering, Mechanical Engineering (supervisor: Prof. Xiaoqian Li,[Prof. Yongcheng Lin](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
 
 # Publication
 ---
@@ -39,7 +39,7 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
 ## Patents
 
-+ Yang, C., Hua, X., Wu, S., **Shan, X.**, Zhou, P., Zhi, H., Chen, Y. (`2018`). An integrated device for deep sea optical communication and track. *CN105807298A*. (Pending)
++ Yang, C., Hua, X., Wu, S., **Shan, X.**, Zhou, P., Zhi, H., Chen, Y. (`2018`). An integrated device for deep sea optical communication and track. *CN109245821A*. (Pending)
 + Yang, C., Zhou, P., Wu, S., Zhu, Y. **Shan, X.**, & Xu, X. (`2016`). [Releasable sit bottom device for underwater profiler.](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=106197384A&KC=A&FT=D) *CN106197384A*.
 + Liu, G., **Shan, X.**, Feng, Z., Xu, N., Qin, Z., ... & Lu, Z. (`2015`). [Automobile exhaust comprehensive processing system.](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=204099004U&KC=U&FT=D) *CN204099004U*.
 
@@ -69,7 +69,7 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
 + ### National Contest of Energy Saving & Emission Reduction (`2012-2013`): ’Comprehensive Purification System for Automobile Exhaust Based on Seebeck Effect and PM2.5 Electrostatic Removal Technology’
 
-    This was a national contest held by China's ministry of education. I was a key member of a 5 people group, who was in charge of the design of an exhaust processing system. We won a national second prize in this contest.
+    This was a national contest held by China's ministry of education. I was a key member of a 5 people group, who was in charge of the design of an electricity generation system. We won a national second prize in this contest.
 
 # Selected Technical Skills
 ---
@@ -80,10 +80,12 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
     * C++
     * LaTeX
     * Visual Studio
+
 + Mathematics Software
     * Matlab
     * Maple
     * Mathematica
+
 + Mechanical
     * COMSOL
     * ANSYS
@@ -93,12 +95,14 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
     * Pro/E
     * KeyShot
     * 3Ds Max
+
 + Electrical
     * Altium Designer
     * Xilinx ISE (FPGA Development Environment)
     * Keil (ARM STM32)
     * LabVIEW
     * Multisim
+
 + Others
     * TracePro (Optical Simulation Software)
 
@@ -107,8 +111,8 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
 + `2018` Teaching Assistantship, Rutgers University, Teaching Assistant of 'Dynamics' and 'Aircraft Flight Dynamics'.
 
-+ `2016` Outstanding Graduate Student, Zhejiang University, Awarded to excellent graduate students
++ `2016` Outstanding Student, Zhejiang University, Awarded to excellent graduate students.
 
-+ `2015` Outstanding Graduate, Central South University, Awarded to excellent undergraduate thesis writer
++ `2015` Outstanding Graduate, Central South University, Awarded to excellent undergraduate students.
 
-+ `2013` National Scholarship, Ministry of Education, Awarded to top students
++ `2013` National Scholarship, Ministry of Education, Awarded to top students.

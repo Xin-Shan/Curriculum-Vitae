@@ -26,7 +26,7 @@ permalink: /Chinese/
 ## 期刊论文
 
 + **Shan, X.**, Yang, C., Wu, S., Chen, Y., Zhou, P., (`2017`). Integrated underwater optical guiding and communicating devices between an AUV and sea network nodes. Ocean Engineering. (Under Review)
-+ Zhu, Y., Yang, C., Wu, S., Zhou, P., & **Shan, X.** (`2016`). [Steering performance of underwater glider in water column monitoring.](http://www.zjujournals.com/eng/EN/Y2016/V50/I9/1637) Journal of Zhejiang University (*Engineering Science*), 50(9), 1637-1645.
++ 朱雨时, 杨灿军, 吴世军, 徐晓乐, 周璞哲, & **单鑫**. (`2016`). 水柱测量中的水下滑翔机转向性能. *浙江大学学报 (工学版)*, 50(9), 1637-1645.
 
 ## 会议论文
 
@@ -37,53 +37,55 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
 ## 专利
 
-+ Yang, C., Hua, X., Wu, S., **Shan, X.**, Zhou, P., Zhi, H., Chen, Y. (`2018`). An integrated device for deep sea optical communication and track. *CN105807298A*. (Pending)
-+ Yang, C., Zhou, P., Wu, S., Zhu, Y. **Shan, X.**, & Xu, X. (`2016`). [Releasable sit bottom device for underwater profiler.](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=106197384A&KC=A&FT=D) *CN106197384A*.
-+ Liu, G., **Shan, X.**, Feng, Z., Xu, N., Qin, Z., ... & Lu, Z. (`2015`). [Automobile exhaust comprehensive processing system.](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=204099004U&KC=U&FT=D) *CN204099004U*.
++ 杨灿军, 华骁寒, 吴世军, **单鑫**, 周璞哲, 郅慧., 陈玉璐. (`2018`). 一种应用于深海的光通信与定位组合的装置. *CN109245821A*. (在审)
++ 杨灿军, 周璞哲., 吴世军, 朱雨时. **单鑫**, & 徐晓乐. (`2016`). 一种用于水下剖面仪的可释放坐底装置. *CN106197384A*
++ 刘国强, **单鑫**, 冯志伟, 许宁, 覃茁, ... & 鹿振华. (`2015`). 汽车尾气综合处理系统. *CN204099004U*.
 
 
 # 项目 & 学位论文
 ---
 
-+ ### Master Thesis (`2016-2018`): ’Research on Laser Guidance and AUV Docking Technology’
++ ### 硕士学位论文（导师：杨灿军教授） (`2016-2018`): ’水下自主航行器定位和接驳技术研究’
 
-    This thesis aimed to integrate the communication and positioning functions into one portable device which can guide underwater vehicles to the nodes of sea observatory network and allow the information and energy exchanging between them. I wrote an algorithm (FPGA Verilog), designed the hardware, and did the thermal and optical design for this system. A preliminary experiment of underwater laser charging was also included.
+    论文设计了一种定位和接驳集成装置，可以引导水下航行器和海底观测网节点进行对接，并进行充电和通信。论文独立完成了算法（FPGA）设计，硬件设计，实验，并进行了热和光学仿真。
 
-+ ### National High-Tech R&D Program of China (`No.2014AA09A513-1`): ’Monitoring and Networking Technology of Autonomous Portable Profiler’
++ ### 国家高技术研究发展计划(863计划) (`No.2014AA09A513-1`): ’自主便携式剖面监测仪及其组网技术’
     
-    As a team member, my attribution was mainly on designing of main control board hardware (PCB), data logging program (STM32 Platform / C++Programing Language) and some auxiliary devices (deploy and recovery devices, etc.). I also worked with my team to assemble and debug the profiler. I attended the sea trial in July 2017 cooperated with 715 Institute of China Shipbuilding Industry Corporation.
+    作为团队成员，主要工作包括剖面仪主控板 PCB 设计，数据记录程序（STM32 C++）编制，部分辅助机构设计（剖面仪布放和回收机构）。于中船重工 715 研究所合作，参与了剖面仪的调试、湖试和海试。
 
-+ ### The National Key R&D Program of China: ’Development of Air-Tight Sampling Device for Deep Sea Water and Sediments’
++ ### 国家重点研发计划: ’气密沉积物取样器研制’
     
-    The research on developing an extremely low power consumption optical communication system for the deep sea sampler was conducted in this project.
+    参与研制一种应用于取样器的超低功耗光通信装置。
 
-+ ### Bachelor Thesis (`2014-2015`): ’Design of Multi-Physical Field Aluminum Alloy Hemi-Continuous Casting Machine — Aluminum Liquid Level Control Systems’
++ ### 本科学位论文 （导师：李晓谦教授）(`2014-2015`): ’铝合金多外场半连续铸造机设计 —— 液位控制系统设计’
 
-    I investigated the factory site and designed a hemi-continuous casting system. Moreover, I established mathematics and control model for the system and wrote program (PLC) of it, and designed the structure of the actuator.
+    论文进行了工厂调研，并初步设计了一套半连续铸造系统。主要工作包括结构设计、建模分析、仿真和相关控制程序（PLC）编制。
 
-+ ### Central South University Undergraduate Free Exploration Program (`2013-2014`): ’Study on Nonlinear Dynamic Response of Spur Gears with Clearance and Friction’
++ ### 中南大学本科生自由探索项目（指导老师：唐进元教授） (`2013-2014`): ’中南大学本科生自由探索计划项目’
 
-    This was a university funded project, of which I am the PI of a 5-student group. We established the dynamic model of the gear and get the destruction mechanism and the allowable extreme working conditions.
+    该项目为学校资助项目。作为项目小组组长，和团队成员建立了齿轮的动力学模型，得到了齿轮失效机制和极限载荷。
 
-+ ### National Contest of Energy Saving & Emission Reduction (`2012-2013`): ’Comprehensive Purification System for Automobile Exhaust Based on Seebeck Effect and PM2.5 Electrostatic Removal Technology’
++ ### 全国大学生节能减排竞赛（指导老师：季桂树）(`2012-2013`): ’基于 Seebeck 效应及 PM2.5 静电脱除技术的汽车尾气综合处理系统’
 
-    This was a national contest held by China's ministry of education. I was a key member of a 5 people group, who was in charge of the design of an exhaust processing system. We won a national second prize in this contest.
+    作为小组关键成员（排名第二），参与设计了尾气处理系统，负责设计了温差发电部分。作品获得全国二等奖。
 
-# 主要技能
+# 部分技能
 ---
 
-+ Computer Language
++ 数学软件
+    * Matlab
+    * Maple
+    * Mathematica
+
++ 计算机语言
     * VHDL (FPGA)
     * Verilog (FPGA)
     * C (ARM STM32)
     * C++
     * LaTeX
     * Visual Studio
-+ Mathematics Software
-    * Matlab
-    * Maple
-    * Mathematica
-+ Mechanical
+
++ 机械相关软件
     * COMSOL
     * ANSYS
     * AutoCAD
@@ -92,22 +94,24 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
     * Pro/E
     * KeyShot
     * 3Ds Max
-+ Electrical
+
++ 电气相关软件
     * Altium Designer
     * Xilinx ISE (FPGA Development Environment)
     * Keil (ARM STM32)
     * LabVIEW
     * Multisim
-+ Others
+
++ 其他
     * TracePro (Optical Simulation Software)
 
-# 主要荣誉
+# 主要荣誉和奖学金
 ---
 
-+ `2018` Teaching Assistantship, Rutgers University, Teaching Assistant of 'Dynamics' and 'Aircraft Flight Dynamics'.
++ `2018` 助教奖学金 罗格斯大学 ‘动力学’和‘飞机飞行动力学’助教
 
-+ `2016` Outstanding Graduate Student, Zhejiang University, Awarded to excellent graduate students
++ `2016` 优秀研究生 浙江大学
 
-+ `2015` Outstanding Graduate, Central South University, Awarded to excellent undergraduate thesis writer
++ `2015` 优秀毕业生 中南大学
 
-+ `2013` National Scholarship, Ministry of Education, Awarded to top students
++ `2013` 国家奖学金 中南大学
