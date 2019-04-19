@@ -20,7 +20,7 @@ Email: xin.shan@rutgers.edu | TEL: +1 (732) 401 5214 | <i class="fa fa-github"><
 [__Zhejiang University__](http://www.zju.edu.cn/english/) Master of Science, Mechatronic Engineering (supervisor: [Prof. Canjun Yang](http://sklofp.zju.edu.cn/SKL/en/index.php?a=shows&catid=13&id=32))
 
 `2011-2015`
-[__Central South University__](http://en.csu.edu.cn) Bachelor of Engineering, Mechanical Engineering (supervisor: Prof. Xiaoqian Li,[Prof. Yongcheng Lin](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
+[__Central South University__](http://en.csu.edu.cn) Bachelor of Engineering, Mechanical Engineering (supervisor: Prof. Xiaoqian Li, [Prof. Yongcheng Lin](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
 
 # Publication
 ---
