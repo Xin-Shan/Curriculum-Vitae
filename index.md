@@ -27,7 +27,6 @@ Email: xin.shan@rutgers.edu | TEL: +1 (732) 401 5214 | <i class="fa fa-github"><
 
 ## Journals
 
-+ **Shan, X.**, Yang, C., Wu, S., Chen, Y., Zhou, P., (`2017`). Integrated underwater optical guiding and communicating devices between an AUV and sea network nodes. Ocean Engineering. (Under Review)
 + Zhu, Y., Yang, C., Wu, S., Zhou, P., & **Shan, X.** (`2016`). [Steering performance of underwater glider in water column monitoring.](http://www.zjujournals.com/eng/EN/Y2016/V50/I9/1637) Journal of Zhejiang University (*Engineering Science*), 50(9), 1637-1645.
 
 ## Conference Proceedings

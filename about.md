@@ -25,7 +25,6 @@ permalink: /Chinese/
 
 ## 期刊论文
 
-+ **Shan, X.**, Yang, C., Wu, S., Chen, Y., Zhou, P., (`2017`). Integrated underwater optical guiding and communicating devices between an AUV and sea network nodes. Ocean Engineering. (Under Review)
 + 朱雨时, 杨灿军, 吴世军, 徐晓乐, 周璞哲, & **单鑫**. (`2016`). 水柱测量中的水下滑翔机转向性能. *浙江大学学报 (工学版)*, 50(9), 1637-1645.
 
 ## 会议论文
