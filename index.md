@@ -8,7 +8,7 @@ title: English
 
 # Xin Shan
 
-Email: xin.shan@rutgers.edu | TEL: +1 (732) 401 5214 | <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">Curriculum Vitae (PDF)</a> |
+Email: xin.shan#rutgers.edu | TEL: #1 (732) 401 #### | <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">Curriculum Vitae (PDF)</a> |
 
 # Education Background
 ---
@@ -72,38 +72,15 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
 # Selected Technical Skills
 ---
-+ Computer Language
-    * VHDL (FPGA)
-    * Verilog (FPGA)
-    * C (ARM STM32)
-    * C++
-    * LaTeX
-    * Visual Studio
++ Computer Language: VHDL (FPGA), Verilog (FPGA), C (ARM STM32), C++, LaTeX. 
 
-+ Mathematics Software
-    * Matlab
-    * Maple
-    * Mathematica
++ Mathematics Software: Matlab, Maple, Mathematica. 
 
-+ Mechanical
-    * COMSOL
-    * ANSYS
-    * AutoCAD
-    * SolidWorks
-    * Catia
-    * Pro/E
-    * KeyShot
-    * 3Ds Max
++ Mechanical: OpenFOAM, COMSOL, ANSYS, AutoCAD, SolidWorks, Catia V5, Pro/E, KeyShot, 3Ds Max, Rhinoceros. 
 
-+ Electrical
-    * Altium Designer
-    * Xilinx ISE (FPGA Development Environment)
-    * Keil (ARM STM32)
-    * LabVIEW
-    * Multisim
++ Electrical: Altium Designer, Xilinx ISE (FPGA Development Environment), Keil (ARM STM32), LabVIEW, Multisim. 
 
-+ Others
-    * TracePro (Optical Simulation Software)
++ Others: TracePro (Optical Simulation Software)
 
 # Selected Honors
 ---

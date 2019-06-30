@@ -6,7 +6,7 @@ permalink: /Chinese/
 
 # 单鑫
 
-邮箱: xin.shan@rutgers.edu | 电话: +1 (732) 401 5214 | <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">简历 (PDF)</a> |
+邮箱: xin.shan#rutgers.edu | 电话: #1 (732) 401 #### | <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">简历 (PDF)</a> |
 
 # 教育背景
 ---
@@ -15,10 +15,10 @@ permalink: /Chinese/
 [__罗格斯大学__](https://www.rutgers.edu) 哲学博士, 机械与航天工程 (导师: [Dr. Onur Bilgen](https://mae.rutgers.edu/onur-bilgen))
 
 `2015-2018`
-[__浙江大学__](http://www.zju.edu.cn/english/) 工学硕士, 机械电子工程 (导师: [杨灿军 教授](http://sklofp.zju.edu.cn/SKL/en/index.php?a=shows&catid=13&id=32))
+[__浙江大学__](http://www.zju.edu.cn/mainm.htm) 工学硕士, 机械电子工程 (导师: [杨灿军 教授](https://person.zju.edu.cn/ycj))
 
 `2011-2015`
-[__中南大学__](http://en.csu.edu.cn) 工学学士, 机械设计制造及其自动化 (导师: [李晓谦 教授](http://cmee.csu.edu.cn/mobile_bk/?id=lixiaoqian), [蔺永诚 教授](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
+[__中南大学__](http://www.csu.edu.cn) 工学学士, 机械设计制造及其自动化 (导师: [李晓谦 教授](http://cmee.csu.edu.cn/mobile_bk/?id=lixiaoqian), [蔺永诚 教授](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
 
 # 作品发表
 ---
@@ -71,43 +71,20 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 # 部分技能
 ---
 
-+ 数学软件
-    * Matlab
-    * Maple
-    * Mathematica
++ 数学软件: Matlab, Maple, Mathematica. 
 
-+ 计算机语言
-    * VHDL (FPGA)
-    * Verilog (FPGA)
-    * C (ARM STM32)
-    * C++
-    * LaTeX
-    * Visual Studio
++ 计算机语言: VHDL (FPGA), Verilog (FPGA), C (ARM STM32), C++, aTeX, Visual Studio. 
 
-+ 机械相关软件
-    * COMSOL
-    * ANSYS
-    * AutoCAD
-    * SolidWorks
-    * Catia
-    * Pro/E
-    * KeyShot
-    * 3Ds Max
++ 机械相关软件: OpenFOAM, COMSOL, ANSYS, AutoCAD, SolidWorks, Catia V5, Pro/E, KeyShot, 3Ds Max, Rhinoceros. 
 
-+ 电气相关软件
-    * Altium Designer
-    * Xilinx ISE (FPGA Development Environment)
-    * Keil (ARM STM32)
-    * LabVIEW
-    * Multisim
++ 电气相关软件: Altium Designer, Xilinx ISE (FPGA Development Environment), Keil (ARM STM32), LabVIEW, Multisim. 
 
-+ 其他
-    * TracePro (Optical Simulation Software)
++ 其他: TracePro (Optical Simulation Software)
 
 # 主要荣誉和奖学金
 ---
 
-+ `2018` 助教奖学金 罗格斯大学 ‘动力学’和‘飞机飞行动力学’助教
++ `2018` 助教奖学金 罗格斯大学 ‘动力学’和‘航空飞行动力学’助教
 
 + `2016` 优秀研究生 浙江大学
 
