@@ -80,7 +80,7 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
 + Electrical: Altium Designer, Xilinx ISE (FPGA Development Environment), Keil (ARM STM32), LabVIEW, Multisim. 
 
-+ Others: TracePro (Optical Simulation Software)
++ Others: TracePro (Optical Simulation Software), Linux. 
 
 # Selected Honors
 ---

@@ -50,7 +50,7 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
 + ### 国家高技术研究发展计划(863计划) (`No.2014AA09A513-1`): ’自主便携式剖面监测仪及其组网技术’
     
-    作为团队成员，主要工作包括剖面仪主控板 PCB 设计，数据记录程序（STM32 C++）编制，部分辅助机构设计（剖面仪布放和回收机构）。与中船重工 715 研究所合作，参与了剖面仪的调试、湖试和海试。
+    作为团队成员，主要工作包括剖面仪主控板 PCB 设计，数据记录程序（STM32 C++）编制，部分辅助机构设计（剖面仪布放和回收机构）。与中船重工 715 研究所合作，参与了剖面仪的调试、湖试、中期考核和海试。
 
 + ### 国家重点研发计划: ’气密沉积物取样器研制’
     
@@ -62,7 +62,7 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
 + ### 中南大学本科生自由探索项目（指导老师：唐进元教授） (`2013-2014`): ’含间隙和摩擦的直齿轮非线性响应研究’
 
-    该项目为学校资助项目。作为项目小组组长，和团队成员合作建立了齿轮的动力学模型，得到了齿轮失效机制和极限载荷。
+    该项目为学校资助项目。作为项目小组组长和团队成员合作建立了直齿轮的动力学模型，分析了齿轮的失效机制和极限载荷。
 
 + ### 全国大学生节能减排竞赛（指导老师：季桂树）(`2012-2013`): ’基于 Seebeck 效应及 PM2.5 静电脱除技术的汽车尾气综合处理系统’
 
@@ -77,9 +77,9 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
 + 机械相关软件: OpenFOAM, COMSOL, ANSYS, AutoCAD, SolidWorks, Catia V5, Pro/E, KeyShot, 3Ds Max, Rhinoceros. 
 
-+ 电气相关软件: Altium Designer, Xilinx ISE (FPGA Development Environment), Keil (ARM STM32), LabVIEW, Multisim. 
++ 电气相关软件: Altium Designer, Xilinx ISE (FPGA 开发环境), Keil (ARM STM32), LabVIEW, Multisim. 
 
-+ 其他: TracePro (Optical Simulation Software)
++ 其他: TracePro (光学仿真软件), Linux. 
 
 # 主要荣誉和奖学金
 ---
