@@ -10,7 +10,7 @@ title: English
 
 Email: xin.shan#rutgers.edu | TEL: #1 (732) 401 #### | <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">Curriculum Vitae (PDF)</a> |
 
-# Education Background
+## Education Background
 ---
 
 `2018-present`
@@ -22,28 +22,28 @@ Email: xin.shan#rutgers.edu | TEL: #1 (732) 401 #### | <i class="fa fa-github"><
 `2011-2015`
 [__Central South University__](http://en.csu.edu.cn) Bachelor of Engineering, Mechanical Engineering (supervisor: Prof. Xiaoqian Li, [Prof. Yongcheng Lin](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
 
-# Publication
+## Publication
 ---
 
-## Journals
+### Journals
 
 + Zhu, Y., Yang, C., Wu, S., Zhou, P., & **Shan, X.** (`2016`). [Steering performance of underwater glider in water column monitoring.](http://www.zjujournals.com/eng/EN/Y2016/V50/I9/1637) Journal of Zhejiang University (*Engineering Science*), 50(9), 1637-1645.
 
-## Conference Proceedings
+### Conference Proceedings
 
 + **Shan, X.**, Yang, C., Chen, Y., Xia, Q. (`2017`, November). A free-space underwater laser communication
 device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorage. IEEE.
 (Presenter)
 + Xia, Q., Chen, Y., Zang, Y., **Shan, X.**, Yang, C., Zhang, Z. (`2017`, November). [Ocean profiler power system driven by temperature difference energy.](http://ieeexplore.ieee.org/abstract/document/8232156/?reload=true) In OCEANS’17 MTS/IEEE Anchorage. IEEE.
 
-## Patents
+### Patents
 
 + Yang, C., Hua, X., Wu, S., **Shan, X.**, Zhou, P., Zhi, H., Chen, Y. (`2018`). An integrated device for deep sea optical communication and track. *CN109245821A*. (Pending)
 + Yang, C., Zhou, P., Wu, S., Zhu, Y. **Shan, X.**, & Xu, X. (`2016`). [Releasable sit bottom device for underwater profiler.](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=106197384A&KC=A&FT=D) *CN106197384A*.
 + Liu, G., **Shan, X.**, Feng, Z., Xu, N., Qin, Z., ... & Lu, Z. (`2015`). [Automobile exhaust comprehensive processing system.](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=204099004U&KC=U&FT=D) *CN204099004U*.
 
 
-# Projects & Thesis
+## Projects & Thesis
 ---
 
 + ### Master Thesis (`2016-2018`): ’Research on Laser Guidance and AUV Docking Technology’
@@ -70,7 +70,7 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
     This was a national contest held by China's ministry of education. I was a key member of a 5 people group, who was in charge of the design of an electricity generation system. We won a national second prize in this contest.
 
-# Selected Technical Skills
+## Selected Technical Skills
 ---
 + Computer Language: VHDL (FPGA), Verilog (FPGA), C (ARM STM32), C++, LaTeX. 
 
@@ -82,7 +82,7 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
 + Others: TracePro (Optical Simulation Software), Linux. 
 
-# Selected Honors
+## Selected Honors
 ---
 
 + `2018` Teaching Assistantship, Rutgers University, Teaching Assistant of 'Dynamics' and 'Aircraft Flight Dynamics'.

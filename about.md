@@ -8,7 +8,7 @@ permalink: /Chinese/
 
 邮箱: xin.shan#rutgers.edu | 电话: #1 (732) 401 #### | <i class="fa fa-github"></i> <a href="https://github.com/Xin-Shan/Curriculum-Vitae/blob/master/Curriculum-Vitae.pdf">简历 (PDF)</a> |
 
-# 教育背景
+## 教育背景
 ---
 
 `2018-至今`
@@ -20,28 +20,28 @@ permalink: /Chinese/
 `2011-2015`
 [__中南大学__](http://www.csu.edu.cn) 工学学士, 机械设计制造及其自动化 (导师: [李晓谦 教授](http://cmee.csu.edu.cn/mobile_bk/?id=lixiaoqian), [蔺永诚 教授](https://scholar.google.com/citations?user=rAOphk4AAAAJ&hl=en))
 
-# 作品发表
+## 作品发表
 ---
 
-## 期刊论文
+### 期刊论文
 
 + 朱雨时, 杨灿军, 吴世军, 徐晓乐, 周璞哲, & **单鑫**. (`2016`). 水柱测量中的水下滑翔机转向性能. *浙江大学学报 (工学版)*, 50(9), 1637-1645.
 
-## 会议论文
+### 会议论文
 
 + **Shan, X.**, Yang, C., Chen, Y., Xia, Q. (`2017`, November). A free-space underwater laser communication
 device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorage. IEEE.
 (Presenter)
 + Xia, Q., Chen, Y., Zang, Y., **Shan, X.**, Yang, C., Zhang, Z. (`2017`, November). [Ocean profiler power system driven by temperature difference energy.](http://ieeexplore.ieee.org/abstract/document/8232156/?reload=true) In OCEANS’17 MTS/IEEE Anchorage. IEEE.
 
-## 专利
+### 专利
 
 + 杨灿军, 华骁寒, 吴世军, **单鑫**, 周璞哲, 郅慧., 陈玉璐. (`2018`). 一种应用于深海的光通信与定位组合的装置. *CN109245821A*. (在审)
 + 杨灿军, 周璞哲., 吴世军, 朱雨时. **单鑫**, & 徐晓乐. (`2016`). 一种用于水下剖面仪的可释放坐底装置. *CN106197384A*.
 + 刘国强, **单鑫**, 冯志伟, 许宁, 覃茁, ... & 鹿振华. (`2015`). 汽车尾气综合处理系统. *CN204099004U*.
 
 
-# 项目 & 学位论文
+## 项目 & 学位论文
 ---
 
 + ### 硕士学位论文（导师：杨灿军教授） (`2016-2018`): ’水下自主航行器定位和接驳技术研究’
@@ -68,7 +68,7 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
     作为小组关键成员（排名第二），参与设计了尾气处理系统，负责设计了温差发电部分。作品获得全国二等奖。
 
-# 部分技能
+## 部分技能
 ---
 
 + 数学软件: Matlab, Maple, Mathematica. 
@@ -81,10 +81,10 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 
 + 其他: TracePro (光学仿真软件), Linux. 
 
-# 主要荣誉和奖学金
+## 主要荣誉和奖学金
 ---
 
-+ `2018` 助教奖学金 罗格斯大学 ‘动力学’和‘航空飞行动力学’助教
++ `2018` 助教奖学金 罗格斯大学 ‘动力学’ 和 ‘航空飞行动力学’ 助教
 
 + `2016` 优秀研究生 浙江大学
 
