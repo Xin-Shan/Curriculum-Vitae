@@ -74,7 +74,7 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 ---
 + Computer Language: VHDL (FPGA), Verilog (FPGA), C (ARM STM32), C++, LaTeX. 
 
-+ Mathematics Software: Matlab, Maple, Mathematica. 
++ Mathematics Software: MATLAB, Maple, Mathematica. 
 
 + Mechanical: OpenFOAM, COMSOL, ANSYS, AutoCAD, SolidWorks, Catia V5, Pro/E, KeyShot, 3Ds Max, Rhinoceros. 
 

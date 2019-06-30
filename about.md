@@ -71,9 +71,9 @@ device with high pulse energy and small volume. In OCEANS’17 MTS/IEEE Anchorag
 ## 部分技能
 ---
 
-+ 数学软件: Matlab, Maple, Mathematica. 
++ 数学软件: MATLAB, Maple, Mathematica. 
 
-+ 计算机语言: VHDL (FPGA), Verilog (FPGA), C (ARM STM32), C++, aTeX, Visual Studio. 
++ 计算机语言: VHDL (FPGA), Verilog (FPGA), C (ARM STM32), C++, LaTeX, Visual Studio. 
 
 + 机械相关软件: OpenFOAM, COMSOL, ANSYS, AutoCAD, SolidWorks, Catia V5, Pro/E, KeyShot, 3Ds Max, Rhinoceros. 
 
